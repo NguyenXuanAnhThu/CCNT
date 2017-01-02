@@ -126,3 +126,6 @@
   -Đám mây mạng---(Cable)-->Modem---->Router
 
   -Đám mây mạng---(Serial)-->CSU/DSU->Router
+
+
+Note: Em chỉ ghi không có hình ảnh vì em có vẽ hình ảnh đầy đủ trong vở nha :D
