@@ -39,10 +39,12 @@
 
    - Các Topology mạng: Physical Topology Categories (Bus, Ring, Star), Logical Topology, Extended-Star Topology, Dual-Ring Topology,..
    - Topo được sử dụng tại phòng thực hành ở tầng 5-KMA là: 
+   
 ## 4. Cách mở rộng mạng hình sao. Các nguyên tắc cơ bản.
 
    - Cách mở rộng mạng hình sao: Chia hệ thống ra nhiều cụm nhỏ với các máy trung tâm nhỏ khác nhau và các máy trung tâm nhỏ tập trung vào máy trung tâm lớn. Nếu một  máy trung tâm ở một cụm xảy ra lỗi thì chỉ có cụm đó ngừng hoạt động còn tất cả các cụm còn lại hoạt động bình thường.
    - Các nguyên tắc cơ bản: ( Các nguyên tắc về cách mở rộng mang hình sao hay s Boss :| )
+   
 ## 5. Kể tên 7 tầng mô hình OSI:
    
    - 7: Application
